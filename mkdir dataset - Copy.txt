@@ -1,0 +1,2 @@
+mkdir dataset
+mkdir dataset/midi_files
